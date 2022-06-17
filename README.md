@@ -1,2 +1,2 @@
-# shiny-octo-barnacle
-AWS Serverless App template
+# AWS Serverless App template
+
